@@ -1,0 +1,2 @@
+# EthnicWeddingDressReservationSystem
+ 基于SpringBoot Vue的民族婚纱预定系统
